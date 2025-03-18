@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 - 🤓 i used to shop at Aldi's
 
-# current project
+# Current project
 
 Colorblind genetics program
