@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 
 # Current project
 
-Colorblind genetics program
+Gurka Program
