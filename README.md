@@ -7,6 +7,9 @@ Here are some ideas to get you started:
 
 - i dont know
 
-# Current project
+# Current projects
 
-aruino thing and python stuff
+Arduino Button Game
+
+Address Book Program
+
