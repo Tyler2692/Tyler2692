@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 # Current projects
 
-Arduino Button Game
+Arduino Micro Mouse Bot
 
-Address Book Program
+AP computer science principles project
 
